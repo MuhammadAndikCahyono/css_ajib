@@ -3,20 +3,3 @@ mini css
 
 # css_ajib
 mini css
-
-/*----------------
- *   PAGING
- *--------------*/
-<div class="wrapper">
-	<div class="paging">
-		<span class='nextprev'>Awal</span>
-		<span class='nextprev'>Kembali</span>
-		<span class='current'><b>1</b></span>
-		<a href="#">2</a>
-		<a href="#">3</a>
-		<span class='nextprev'>...</span>
-		<a href="#">4</a>
-		<a href="#" class='nextprev'>Lanjut</a>
-		<a href="#" class='nextprev'>Akhir</a>
-	</div>
-</div>	
